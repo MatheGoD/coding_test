@@ -60,7 +60,6 @@ function repeated(arr) {
       repeatedElements += elementCounts[element];
     }
   }
-
   return repeatedElements;
 }
 
