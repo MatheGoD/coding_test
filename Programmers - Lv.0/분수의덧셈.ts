@@ -5,7 +5,7 @@
 */
 type Sum = (a: number, b: number, c: number, d: number) => number[];
 
-const solution: Sum = (denum1, num1, denum2, num2) => {
+const solution1: Sum = (denum1, num1, denum2, num2) => {
   // num이 분모 , denum이 분자 "이름 좀 바꿔 주세요.."
   const answer: number[] = [];
   const commonDenum = num1 * num2;
@@ -26,6 +26,7 @@ const findGCF = (n1: number, n2: number): number => {
 };
 
 /*
-기억하고 싶은 이유 : 예전에는 GCF를 구할 때, 공약수를 직접 구한 후 배열에 넣고 정렬한 다음 최댓값을 찾았지만,
+기억하고 싶은 이유 : 
+예전에는 GCF를 구할 때, 공약수를 직접 구한 후 배열에 넣고 정렬한 다음 최댓값을 찾았지만,
 전공 시절 배운 유클리드의 호제법이 생각나서 적용!! 쉬운 문제지만 새로운 알고리즘을 적용했다는 사실에 오~놀라워라! 놀라워!
 */
