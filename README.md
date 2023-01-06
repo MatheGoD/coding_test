@@ -2,6 +2,8 @@
 
 Coding Test That I Want To Remember From Programmers
 
+Current Score At Programmers :
+https://ifh.cc/v-kO4LbD
 </br>
 
 ## Goal of This Git Repo
