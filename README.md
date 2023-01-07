@@ -31,4 +31,10 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 
 ### Lv.1
 
+- 내적
+- 콜라츠 추측
+- 하샤드 수
+- 행렬의 덧셈
+- 시저 암호
+
 ### Lv.2
