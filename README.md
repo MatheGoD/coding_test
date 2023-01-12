@@ -3,6 +3,7 @@
 Coding Test That I Want To Remember From Programmers
 
 Current Score At Programmers : Weekly Updated (Last Update : 23/01/06)
+
 <div>
 <img src="https://user-images.githubusercontent.com/110371295/210918868-f82dcdf4-44f9-469e-b8f0-1b5ca7142eb5.png">
 </div>
@@ -39,5 +40,6 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 - 하샤드 수
 - 행렬의 덧셈
 - 시저 암호
+- 두 개 뽑아서 더하기
 
 ### Lv.2

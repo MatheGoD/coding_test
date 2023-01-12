@@ -15,7 +15,7 @@ function sum(arr1: TwoDArr, arr2: TwoDArr, el: number): number[] {
   return arr;
 }
 
-function solution11(arr1: TwoDArr, arr2: TwoDArr): TwoDArr {
+function solution12(arr1: TwoDArr, arr2: TwoDArr): TwoDArr {
   let combinedArr: TwoDArr = [];
   let fstarr = arr1;
   let Sndarr = arr2;
