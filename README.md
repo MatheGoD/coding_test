@@ -2,10 +2,10 @@
 
 Coding Test That I Want To Remember From Programmers
 
-Current Score At Programmers : Weekly Updated (Last Update : 23/01/06)
+Current Score At Programmers : Weekly Updated (Last Update : 23/01/25)
 
 <div>
-<img src="https://user-images.githubusercontent.com/110371295/210918868-f82dcdf4-44f9-469e-b8f0-1b5ca7142eb5.png">
+<img src="https://user-images.githubusercontent.com/110371295/214566854-df080fce-e00d-4909-b96b-ffb8b84fa0cf.png">
 </div>
 </br>
 **Noted That MySQL Questions Don't Have Score...**
