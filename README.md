@@ -42,5 +42,6 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 - 시저 암호
 - 두 개 뽑아서 더하기
 - 실패율(13)
+- 숫자짝꿍
 
 ### Lv.2
