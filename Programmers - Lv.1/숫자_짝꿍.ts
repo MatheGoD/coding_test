@@ -36,7 +36,7 @@ X = 3403이고 Y = 13203이라면, X와 Y의 짝꿍은 X와 Y에서 공통으로
 //     }
 // }
 
-function solution14(X: string, Y: string): string {
+function solution15(X: string, Y: string): string {
   const xArr: number[] = [...Array(10)].fill(0); // (1)
   const yArr: number[] = [...Array(10)].fill(0);
 
