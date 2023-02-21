@@ -5,7 +5,7 @@ Coding Test That I Want To Remember From Programmers
 Current Score At Programmers : Weekly Updated (Last Update : 23/02/20)
 
 <div>
-<img src="https://user-images.githubusercontent.com/110371295/214566854-df080fce-e00d-4909-b96b-ffb8b84fa0cf.png">
+<img src="https://user-images.githubusercontent.com/110371295/220230645-9f8c5b07-4d14-4b0d-9c60-01692142e74f.png">
 </div>
 </br>
 **Noted That MySQL Questions Don't Have Score...**
