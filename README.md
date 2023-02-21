@@ -32,7 +32,7 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 - 소인수분해
 - 합성수 찾기
 - 로그인?
-- 유한소수 판별하기 (리팩토링 예정)
+- 유한소수 판별하기
 - 캐릭터의 좌표
 
 ### Lv.1
