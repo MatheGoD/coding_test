@@ -2,7 +2,7 @@
 
 Coding Test That I Want To Remember From Programmers
 
-Current Score At Programmers : Weekly Updated (Last Update : 23/01/25)
+Current Score At Programmers : Weekly Updated (Last Update : 23/02/20)
 
 <div>
 <img src="https://user-images.githubusercontent.com/110371295/214566854-df080fce-e00d-4909-b96b-ffb8b84fa0cf.png">
@@ -17,6 +17,8 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 ## Acheivements
 
 1. Programmers Lv.0 Complete (23.01.05) - <a href="https://velog.io/@mathe1303/JavaScript-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A0%88%EB%B2%A8-0-%EC%99%84%EB%A3%8C">LINK</a>
+
+2. Programmers Lv.1 Complete (23.02.20) - <a href="https://velog.io/@mathe1303/JavaScript-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A0%88%EB%B2%A8-1-%EC%99%84%EB%A3%8C">LINK</a>
 
 ## List
 
@@ -36,12 +38,18 @@ Trying to RECORD my solution and CONVERT JS into TypeScript for Simple Practice
 ### Lv.1
 
 - 내적
+- 기사단원의 무기
 - 콜라츠 추측
 - 하샤드 수
 - 행렬의 덧셈
 - 시저 암호
 - 두 개 뽑아서 더하기
-- 실패율(13)
+- 실패율
 - 숫자짝꿍
+- 개인정보 수집 유효기간
+- 신고 결과 받기
+- 둘 만의 암호
 
 ### Lv.2
+
+- JadenCase 문자열 만들기(17)
